@@ -5,9 +5,9 @@
   
   
   
-  - "I want to go to the bazaar, but it's on the riverbed...."
+   *"I want to go to the bazaar, but it's on the riverbed...."*
 
-  - Remilia Scarlet
+  — Remilia Scarlet
 
 
 
